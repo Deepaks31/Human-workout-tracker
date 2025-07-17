@@ -19,9 +19,9 @@ A real-time workout tracking app that uses your webcam to detect and count **bic
 
 ## 📂 Project Structure
 
-├── app.py # Streamlit-based main application
-├── bicep_workout_tracker.py.ipynb # Development / research notebook (optional)
-├── README.md # Project documentation
+├── app.py # Streamlit-based main application <br>
+├── bicep_workout_tracker.py.ipynb # Development / research notebook (optional) <br>
+├── README.md # Project documentation <br>
 
 
 ---
